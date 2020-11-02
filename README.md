@@ -5,3 +5,4 @@ This project is to give some help with how you would test with the [`Neo4j.Drive
 There are (or at least _will be_) a series of posts on how to do it:
 
 * [Part 1](https://xclave.co.uk/2020/10/23/testing-neo4j-driver-4-1-1-part-1/)
+* [Part 2](https://xclave.co.uk/2020/11/02/testing-neo4j-driver-4-1-1-part-2-session-config/)
